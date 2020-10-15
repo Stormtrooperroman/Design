@@ -59,4 +59,6 @@ p {
 .feature__text {
     color: #898989
 }
-
+#button_footer{
+    margin: 20px;
+}
